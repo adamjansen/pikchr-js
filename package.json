@@ -1,10 +1,10 @@
 {
   "name": "pikchr",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "Pikchr addon source package",
   "main": "index.js",
-  "repository": "https://github.com/tenuki/pikchr",
-  "homepage": "https://github.com/tenuki/pikchr",
+  "repository": "https://github.com/adamjansen/pikchr-js",
+  "homepage": "https://github.com/adamjansen/pikchr-js",
   "license": "0BSD",
   "author": "David Weil <tenuki@gmail.com> (http://endlesstruction.com.ar/)",
   "dependencies": {
